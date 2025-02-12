@@ -1,18 +1,18 @@
-Aviation Accident Analysis - README
-Overview
+                        ### Aviation Accident Analysis - README
+                          #Overview
 This project analyzes aviation accident data to identify trends, risks, and safety recommendations. The goal is to support aviation stakeholders in making informed decisions about aircraft safety, weather-related risks, and operational best practices.
 
-Business Understanding
-Stakeholder
+                               ###Business Understanding
+          #Stakeholder
 The primary stakeholders are aviation companies, regulatory authorities, and aircraft operators looking to minimize accident risks and improve safety measures.
 
-Key Business Questions
-Which aircraft models have the highest accident rates?
-How does weather impact accident severity?
-What are the most critical flight phases where accidents occur?
-Data Understanding and Analysis
-Source of Data
-The dataset is sourced from the National Transportation Safety Board (NTSB) and includes aviation accident and incident reports from 1962 to 2023.
+                            Key Business Questions
+1.Which aircraft models have the highest accident rates?
+2.How does weather impact accident severity?
+3.What are the most critical flight phases where accidents occur?
+4.Data Understanding and Analysis
+5.Source of Data
+         The dataset is sourced from the National Transportation Safety Board (NTSB) and includes aviation accident and incident reports from 1962 to 2023.
 
 Description of Data
 Event Details: Date, location, accident number
