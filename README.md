@@ -46,10 +46,12 @@ Weather Condition Impact on Aircraft DamageS tacked bar chart comparing accident
 Conclusion
 Summary of Findings
 High-Risk Aircraft Models: Cessna 152 and 172 have the highest accident counts, likely due to their widespread use in training.
+
 Weather Impact: While most accidents occur in clear weather (VMC), accidents in IMC tend to be more severe.
+
 Critical Flight Phases: Takeoff and landing are the riskiest phases, requiring improved safety protocols and pilot training.
-Recommendations
-Aircraft Selection: Prioritize lower-risk models for operations.
-Pilot Training: Enhance IMC training and emergency response skills.
-Operational Safety: Implement stricter maintenance and risk assessment protocols, especially for high-risk flight phases.
+             Recommendations
+1.Aircraft Selection: Prioritize lower-risk models for operations.
+2.Pilot Training: Enhance IMC training and emergency response skills.
+3.Operational Safety: Implement stricter maintenance and risk assessment protocols, especially for high-risk flight phases.
 
