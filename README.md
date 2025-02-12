@@ -1,12 +1,12 @@
-                        ### Aviation Accident Analysis - README
-                          #Overview
+                        #Aviation Accident Analysis - README
+                         ##Overview
 This project analyzes aviation accident data to identify trends, risks, and safety recommendations. The goal is to support aviation stakeholders in making informed decisions about aircraft safety, weather-related risks, and operational best practices.
 
-                               ###Business Understanding
-          #Stakeholder
+                               ##Business Understanding
+          ###Stakeholder
 The primary stakeholders are aviation companies, regulatory authorities, and aircraft operators looking to minimize accident risks and improve safety measures.
 
-                            Key Business Questions
+                          #Key Business Questions
 1.Which aircraft models have the highest accident rates?
 2.How does weather impact accident severity?
 3.What are the most critical flight phases where accidents occur?
